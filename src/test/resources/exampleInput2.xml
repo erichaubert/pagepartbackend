@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Page xmlns="http://digabit.com/documoto/partslist/1.2.1"
+	xmlns:docustudio="http://digabit.com/docustudio/partslist/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	pageFile="40LFW-08_2.0.1222222.svg" hashKey="abcd-efgh-ijkl-mnop-qrst">
+	<Part discountedPrice="0.0" instanceId="1" item="1" orderable="true"
+		partNumber="6800759" quantity="11" retailPrice="0.0" supplierKey="NABI"
+		unitOfMeasure="EA" wholesalePrice="0.0">
+	</Part>
+	<Part discountedPrice="0.0" instanceId="2" item="2" orderable="true"
+		partNumber="6800760" quantity="1" retailPrice="0.0" supplierKey="NABI"
+		unitOfMeasure="EA" wholesalePrice="0.0">
+	</Part>
+	<Part discountedPrice="50.0" instanceId="3" item="3" orderable="true"
+		partNumber="5014969" quantity="12" retailPrice="0.0" supplierKey="NABI"
+		unitOfMeasure="EA" wholesalePrice="0.0">
+	</Part>
+	<Part discountedPrice="0.0" instanceId="4" item="4" orderable="true"
+		partNumber="6800762" quantity="2" retailPrice="1.0" supplierKey="NABI"
+		unitOfMeasure="EA" wholesalePrice="0.0">
+	</Part>
+</Page>

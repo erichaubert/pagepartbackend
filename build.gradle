@@ -1,0 +1,22 @@
+apply plugin: 'java'
+apply plugin: 'eclipse-wtp'
+
+repositories{
+	jcenter()
+}
+
+sourceSets {
+    main {
+        resources { 
+			srcDir 'src/main/java'
+		}
+	}
+}
+dependencies {
+	compile 'org.hibernate:hibernate-entitymanager:4.3.11.Final'
+	compile 'mysql:mysql-connector-java:5.1.36'
+	testCompile 'xmlunit:xmlunit:1.6'
+	testCompile 'com.google.guava:guava:18.0'
+	//testCompile 'org.mockito:mockito-all:1.10.19' //would use this for EM mocking if I really couldnt get an in memory  db to work
+	testCompile 'junit:junit:4.12'
+}
